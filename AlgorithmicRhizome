@@ -1,0 +1,22 @@
+def algorithmic_rhizome(inputs, weights, edges):
+  """
+  Implements the Algorithmic Rhizome algorithm.
+
+  Args:
+    inputs: A list of inputs to the algorithm.
+    weights: A list of weights associated with each input.
+    edges: A list of edges between the inputs.
+
+  Returns:
+    A new output from the algorithm.
+  """
+
+  # Generate a new input to the algorithm using the Algorithmic Lines of Flight algorithm.
+  new_input = algorithmic_lines_of_flight(inputs, weights)
+
+  # Follow the edges to generate a new output.
+  output = new_input
+  for edge in edges:
+    output = edge(output)
+
+  return output
