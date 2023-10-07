@@ -1,5 +1,10 @@
 # AlgorithmicLinesofFlight
 
+This code will generate a new input to the LLM model using the algorithmic lines of flight algorithm. The new input will then be used to generate a new output from the LLM model. The new output will be a combination of the inputs to the algorithmic lines of flight algorithm, with a random noise term added.
+
+This code can be used to generate new ideas, solve complex problems, and explore the space of possibilities in a non-hierarchical and non-linear way.
+
+
 f(x) = ∑_(i=1)^n p_i * x_i + ε
 
 
