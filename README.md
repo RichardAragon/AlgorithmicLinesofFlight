@@ -57,10 +57,10 @@ Define a network of nodes, where each node applies a transformation to the input
 Generate a new output by passing the initial input through the network of nodes.
 The Algorithmic Rhizome algorithm can also be used to solve complex problems by exploring the space of solutions in a non-hierarchical and non-linear way. The weights on the edges can be used to control the algorithm's search for solutions, and the nodes can be used to represent different types of knowledge and transformations.
 
-Here is an example of how the Algorithmic Rhizome algorithm could be used to solve a complex problem:
+**Logistic Regression**
 
-Define a set of inputs, such as the problem's constraints, goals, and possible solutions.
-Assign weights to each input. For example, the constraints would be given higher weights than the goals, and the possible solutions would be given the lowest weights.
-Define a network of nodes, where each node applies a transformation to the input. For example, one node could generate a new solution idea, another node could evaluate the new solution idea, and another node could modify the new solution idea.
-Generate a new solution by passing the initial input through the network of nodes.
-The Algorithmic Rhizome algorithm is a powerful tool that can be used to generate new ideas, solve complex problems, and explore the space of possibilities in a non-hierarchical and non-linear way. It is inspired by Deleuze and Guattari's concept of the Rhizome, and it has the potential to revolutionize the way that we think about creativity and problem-solving.
+This algorithm works by first generating a new input using the Algorithmic Lines of Flight algorithm. The new input is then passed through the Algorithmic Rhizome algorithm. Finally, the logistic regression prediction is used as the final output of the algorithm.
+
+The logistic regression algorithm acts as the "logic center" for the output by providing a probability of the desired output occurring given the new input. This allows the algorithm to learn complex relationships between the inputs and the outputs, and to make more informed decisions.
+
+The combined algorithm can also be used to solve complex problems by exploring the space of solutions in a non-hierarchical and non-linear way. The weights on the edges in the Algorithmic Rhizome algorithm can be used to control the algorithm's search for solutions, and the nodes can be used to represent different types of knowledge and transformations.
