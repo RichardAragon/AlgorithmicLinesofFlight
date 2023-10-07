@@ -1,0 +1,10 @@
+def logistic_regression_prediction(linear_regression_model, new_input):
+  """Predicts the probability of the desired output occurring given a new input using a logistic regression model."""
+
+  # Calculate the linear regression prediction.
+  linear_regression_prediction = linear_regression_model.predict(new_input)
+
+  # Calculate the probability of the desired output occurring using the logistic regression model.
+  logistic_regression_prediction = 1 / (1 + np.exp(-linear_regression_prediction))
+
+  return logistic_regression_prediction
