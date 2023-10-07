@@ -1,4 +1,4 @@
-# AlgorithmicLinesofFlight
+# Algorithmic Lines of Flight
 
 This code will generate a new input to the LLM model using the algorithmic lines of flight algorithm. The new input will then be used to generate a new output from the LLM model. The new output will be a combination of the inputs to the algorithmic lines of flight algorithm, with a random noise term added.
 
