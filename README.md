@@ -38,3 +38,29 @@ Here is an example of how the Algorithmic Lines of Flight algorithm could be use
 6. If the solution is feasible and satisfies the problem's constraints, then stop.
 
 The Algorithmic Lines of Flight algorithm is a powerful tool that can be used to generate new ideas and solve complex problems in a non-hierarchical and non-linear way. It is inspired by Deleuze and Guattari's concept of Lines of Flight, and it has the potential to revolutionize the way that we think about creativity and problem-solving.
+
+**The Algorithmic Rhizome**
+
+This algorithm works by first generating a new input using the Algorithmic Lines of Flight algorithm. The new input is then passed through a network of nodes, where each node applies a transformation to the input. The output of the network is the new output of the algorithm.
+
+The edges in the network represent the connections between the different nodes. The connections can be directed or undirected, and they can be weighted or unweighted. The weights on the edges can be used to control the strength of the connections.
+
+The nodes in the network can represent any kind of transformation, such as a linear transformation, a non-linear transformation, or a combination of the two. The nodes can also be used to represent different types of knowledge, such as logical knowledge, factual knowledge, and common sense knowledge.
+
+The Algorithmic Rhizome algorithm is a powerful tool that can be used to generate new ideas, solve complex problems, and explore the space of possibilities in a non-hierarchical and non-linear way. It is inspired by Deleuze and Guattari's concept of the Rhizome, and it has the potential to revolutionize the way that we think about creativity and problem-solving.
+
+Here is an example of how the Algorithmic Rhizome algorithm could be used to generate new ideas for a product:
+
+Define a set of inputs, such as the product's features, benefits, target market, and competitive landscape.
+Assign weights to each input. For example, the features that are most important to the target market would be given higher weights.
+Define a network of nodes, where each node applies a transformation to the input. For example, one node could generate a new feature idea, another node could generate a new benefit idea, and another node could evaluate the new ideas.
+Generate a new output by passing the initial input through the network of nodes.
+The Algorithmic Rhizome algorithm can also be used to solve complex problems by exploring the space of solutions in a non-hierarchical and non-linear way. The weights on the edges can be used to control the algorithm's search for solutions, and the nodes can be used to represent different types of knowledge and transformations.
+
+Here is an example of how the Algorithmic Rhizome algorithm could be used to solve a complex problem:
+
+Define a set of inputs, such as the problem's constraints, goals, and possible solutions.
+Assign weights to each input. For example, the constraints would be given higher weights than the goals, and the possible solutions would be given the lowest weights.
+Define a network of nodes, where each node applies a transformation to the input. For example, one node could generate a new solution idea, another node could evaluate the new solution idea, and another node could modify the new solution idea.
+Generate a new solution by passing the initial input through the network of nodes.
+The Algorithmic Rhizome algorithm is a powerful tool that can be used to generate new ideas, solve complex problems, and explore the space of possibilities in a non-hierarchical and non-linear way. It is inspired by Deleuze and Guattari's concept of the Rhizome, and it has the potential to revolutionize the way that we think about creativity and problem-solving.
